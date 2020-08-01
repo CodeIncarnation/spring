@@ -6,6 +6,7 @@ import java.util.Objects;
 import java.util.Set;
 
 //Added comment
+//Another comment
 @Entity
 public class Author {
 
