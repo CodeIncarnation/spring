@@ -7,6 +7,7 @@ import java.util.Set;
 
 //Added comment
 //Another comment
+//Last comment
 @Entity
 public class Author {
 
