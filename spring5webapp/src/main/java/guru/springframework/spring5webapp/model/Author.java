@@ -5,10 +5,6 @@ import java.util.HashSet;
 import java.util.Objects;
 import java.util.Set;
 
-//Added comment
-//Another comment
-//Last comment
-//It should change name this time
 @Entity
 public class Author {
 
